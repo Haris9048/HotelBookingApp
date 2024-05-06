@@ -1,0 +1,2 @@
+# HotelBookingApp
+ This Flutter-powered hotel booking app offers users a seamless experience for finding and booking accommodations. With a user-friendly interface, users can explore a curated list of hotels, each accompanied by vibrant images and comprehensive details. The app allows users to view hotel amenities, pricing, and location information. Upon selecting a hotel, users can delve deeper into its features and easily make bookings. The app emphasizes simplicity and efficiency, ensuring users can find their ideal stay quickly and conveniently
